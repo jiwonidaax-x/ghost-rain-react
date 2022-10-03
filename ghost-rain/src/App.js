@@ -8,7 +8,7 @@ function App() {
           <Button name="Walk-through"/>
           <Button name="Game start"/>
       </div>
-      </>
+    </>
   );
 }
 
