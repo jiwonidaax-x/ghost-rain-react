@@ -5,8 +5,8 @@ function App() {
     <>
       <h1 className='text-white text-8xl text-center mt-20 mb-10'>Enemy Rain</h1>
       <div className="text-center">
-          <Button name="Walk-through"/>
-          <Button name="Game start"/>
+          <Button value="Walk-through"/>
+          <Button value="Game start"/>
       </div>
     </>
   );
