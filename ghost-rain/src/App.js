@@ -1,20 +1,14 @@
 import React from 'react';
+import Button from './Button';
 function App() {
   return (
-    <div id="container" >
-      <div id="title">
-        <h1>Enemy Rain</h1>
+    <>
+      <h1 className='text-white text-8xl text-center mt-20 mb-10'>Enemy Rain</h1>
+      <div className="text-center">
+          <Button name="Walk-through"/>
+          <Button name="Game start"/>
       </div>
-      <div id="buttons">
-      <button id="desc">
-          walk-through
-        </button> 
-        <button id="game-start">
-          game start
-        </button>
-      </div>
-    </div>
-
+      </>
   );
 }
 
