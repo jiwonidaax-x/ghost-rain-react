@@ -1,1 +1,2 @@
-# ghost-rain-react
+# ghost-rain-react]\
+React, tailwind(css)
